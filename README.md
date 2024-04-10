@@ -1,5 +1,6 @@
 # trabalho_aed
 questao fila 
+Equipe: Antonio Rafael, Carlos Kauan
 
 Um lava-rápido tem capacidade máxima de atendimento de k carros, onde um está sendo lavado e k − 1 em espera.
 Cada lavagem leva 3 minutos. Ao chegar um novo cliente, o sistema ou o atende imediatamente, caso esteja completamente
